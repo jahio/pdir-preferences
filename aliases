@@ -1,0 +1,9 @@
+#
+# aliases
+#
+# Make one command behave as though it's another, and create custom commands.
+#
+
+alias ls="ls -FlachG"
+alias mkdir="mkdir -p"
+
