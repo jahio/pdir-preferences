@@ -1,0 +1,10 @@
+#
+# paths - append various locations to $PATH and similar lists of places of
+# where to look for stuff. Also, things.
+#
+
+#
+# [Homebrew](http://brew.sh) via custom install location (MacOS)
+#
+
+export PATH="$HOME/.brew/bin:$PATH"
